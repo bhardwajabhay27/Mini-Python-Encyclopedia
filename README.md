@@ -94,6 +94,7 @@ be extended with additional interactive Python activities.
 
 The application follows a simple hierarchical menu system:
 
+``` text
 Main Menu
 │
 ├── Learn Concept
@@ -117,7 +118,7 @@ Main Menu
 │
 ├── Practise Codes
     └── 25 Problem-Solving Programs
-
+```
 
 Each major concept provides navigation options such as:
 
@@ -162,7 +163,7 @@ python main.py
 
 ## 6. Example
 
-
+``` text
 ============================================================
           PYTHON LEARNING & PRACTICE TOOL
 ============================================================
@@ -176,7 +177,7 @@ What would you like to do?
 3. None
 
 Enter your choice:
-
+```
 
 If the user selects **Learn Concept**, the available Python topics are
 displayed.
